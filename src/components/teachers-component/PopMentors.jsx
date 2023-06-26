@@ -61,7 +61,7 @@ function PopMentors() {
                             <div className='flex'>
                                 <div className='flex flex-col'>
                                     <img src={mentor.img} alt="mentor pic " className='border border-navblue rounded-lg  w-48  h-30'></img>
-                                    <p className='bg-navblue w-5/6 text-center self-center text-white rounded-full text-xs py-1 relative bottom-3'>vRank£<span className='text-xl'>9</span></p>
+                                    <p className='bg-navblue w-5/6 text-center self-center text-white rounded-full text-xs py-1 relative bottom-3'>vRank#<span className='text-xl'>9</span></p>
 
                                 </div>
                                 <div className='p-2 w-full flex flex-col gap-3 text-xs'>
